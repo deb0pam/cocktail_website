@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "Sovabazar,RAja Nabinkrishna Street,Shobhabazar,Kolkata",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "+919123756967",
+	email: "hello@67cocktail.com",
  },
 };
 
