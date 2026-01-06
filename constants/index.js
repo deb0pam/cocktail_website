@@ -102,7 +102,7 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "Sovabazar,RAja Nabinkrishna Street,Shobhabazar,Kolkata",
+ address: "Sovabazar,Raja Nabinkrishna Street,Shobhabazar,Kolkata",
  contact: {
 	phone: "+919123756967",
 	email: "hello@67cocktail.com",
